@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-clint-test01" />
+        <module name="eureka-clint-test02-test" />
+        <module name="eureka-ribbon-test" />
+        <module name="eurekaregister01-test" />
+        <module name="eurekatest01" />
+        <module name="eurelaclienttest01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-clint-test01" target="7" />
+      <module name="eureka-clint-test02-test" target="7" />
+      <module name="eureka-ribbon-test" target="7" />
+      <module name="eureka-server01-test" target="1.8" />
+      <module name="eurekaregister01-test" target="7" />
+      <module name="eurekatest01" target="7" />
+      <module name="eurelaclienttest01" target="7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
