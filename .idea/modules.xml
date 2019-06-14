@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/eureka-clint-test01/eureka-clint-test01.iml" filepath="$PROJECT_DIR$/eureka-clint-test01/eureka-clint-test01.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-clint-test02/eureka-clint-test02.iml" filepath="$PROJECT_DIR$/eureka-clint-test02/eureka-clint-test02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-feign-test01/eureka-feign-test01.iml" filepath="$PROJECT_DIR$/eureka-feign-test01/eureka-feign-test01.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-test/eureka-ribbon-test.iml" filepath="$PROJECT_DIR$/eureka-ribbon-test/eureka-ribbon-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaregister01-test/eurekaregister01-test.iml" filepath="$PROJECT_DIR$/eurekaregister01-test/eurekaregister01-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekatest01.iml" filepath="$PROJECT_DIR$/eurekatest01.iml" />
