@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/eureka-ribbon-test/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaregister01-test/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-feign-test01/pom.xml" />
+        <option value="$PROJECT_DIR$/service-zuul-test01/pom.xml" />
       </list>
     </option>
   </component>

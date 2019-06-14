@@ -8,5 +8,6 @@
     <file url="file://$PROJECT_DIR$/eureka-ribbon-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eureka-server01-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekaregister01-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-zuul-test01" charset="UTF-8" />
   </component>
 </project>

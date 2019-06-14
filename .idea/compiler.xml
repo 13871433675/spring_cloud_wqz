@@ -13,6 +13,7 @@
         <module name="eurekaregister01-test" />
         <module name="eurekatest01" />
         <module name="eurelaclienttest01" />
+        <module name="service-zuul-test01" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -24,6 +25,7 @@
       <module name="eurekaregister01-test" target="7" />
       <module name="eurekatest01" target="7" />
       <module name="eurelaclienttest01" target="7" />
+      <module name="service-zuul-test01" target="7" />
     </bytecodeTargetLevel>
   </component>
 </project>

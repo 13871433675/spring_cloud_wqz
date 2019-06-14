@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/eureka-ribbon-test/eureka-ribbon-test.iml" filepath="$PROJECT_DIR$/eureka-ribbon-test/eureka-ribbon-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekaregister01-test/eurekaregister01-test.iml" filepath="$PROJECT_DIR$/eurekaregister01-test/eurekaregister01-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekatest01.iml" filepath="$PROJECT_DIR$/eurekatest01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-zuul-test01/service-zuul-test01.iml" filepath="$PROJECT_DIR$/service-zuul-test01/service-zuul-test01.iml" />
     </modules>
   </component>
 </project>
