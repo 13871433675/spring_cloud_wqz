@@ -15,13 +15,13 @@ import org.springframework.stereotype.Component;
 @Component
 public class MyFilter extends ZuulFilter {
     private static Logger log = LoggerFactory.getLogger(MyFilter.class);
-    @Override
-    public String filterType() {
-        return "pre";
-    }
+        @Override
+        public String filterType() {
+            return "pre";
+        }
 
-    @Override
-    public int filterOrder() {
+        @Override
+        public int filterOrder() {
         return 0;
     }
 

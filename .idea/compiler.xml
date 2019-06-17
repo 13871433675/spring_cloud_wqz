@@ -16,16 +16,13 @@
         <module name="service-zuul-test01" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="eureka-clint-test01" target="7" />
-      <module name="eureka-clint-test02-test" target="7" />
-      <module name="eureka-feign-test01" target="7" />
-      <module name="eureka-ribbon-test" target="7" />
-      <module name="eureka-server01-test" target="1.8" />
-      <module name="eurekaregister01-test" target="7" />
-      <module name="eurekatest01" target="7" />
-      <module name="eurelaclienttest01" target="7" />
-      <module name="service-zuul-test01" target="7" />
+    <bytecodeTargetLevel target="1.8">
+      <module name="eureka-clint-test01" target="1.8" />
+      <module name="eureka-feign-test01" target="1.8" />
+      <module name="eureka-ribbon-test" target="1.8" />
+      <module name="eurekaregister01-test" target="1.8" />
+      <module name="eurekatest01" target="1.8" />
+      <module name="service-zuul-test01" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

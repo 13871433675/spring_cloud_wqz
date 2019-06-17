@@ -9,3 +9,8 @@ server:
 spring:
   application:
     name: service-ribbon
+
+springboot-eureka-client:
+
+
+
